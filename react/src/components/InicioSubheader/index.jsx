@@ -7,7 +7,7 @@ const InicioSubheader = (props) => {
     <>
       <div
         className={props.className}
-        style={{ backgroundImage: "url('images/img_subheader_481x1440.png')" }}
+        // style={{ backgroundImage: "url('images/img_subheader_481x1440.png')" }}
       >
         <div className="flex md:flex-col flex-row md:gap-5 items-start justify-start w-full">
           <div className="flex flex-1 flex-col gap-5 items-start justify-center w-full">

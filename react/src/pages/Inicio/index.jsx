@@ -29,9 +29,9 @@ const InicioPage = () => {
         <Header className="flex flex-col items-center justify-between md:px-5 w-full" />
         <InicioSubheader
           className="bg-cover bg-gradient  bg-no-repeat flex flex-row gap-5 h-[481px] items-start justify-between max-w-[1440px] mt-5 sm:px-5 px-6 py-5 w-full"
-          style={{
-            backgroundImage: "url('images/img_subheader_481x1440.png')",
-          }}
+          // style={{
+          //   backgroundImage: "url('images/img_subheader_481x1440.png')",
+          // }}
         />
         <List
           className="sm:flex-col flex-row md:gap-10 grid sm:grid-cols-1 md:grid-cols-2 grid-cols-3 justify-between max-w-[1440px] mt-5 p-3 w-full"
