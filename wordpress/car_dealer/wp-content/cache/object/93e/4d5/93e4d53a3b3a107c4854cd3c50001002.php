@@ -1,0 +1,1 @@
+ÖÔÖe<?php exit; ?>a:1:{s:7:"content";a:10:{s:19:"uag_visibility_mode";b:1;s:19:"uag_visibility_page";b:1;s:27:"uag_enable_templates_button";b:1;s:15:"zip_ai_settings";b:1;s:14:"zip_ai_modules";b:1;s:14:"atbdp_migrated";b:1;s:27:"uag_enable_coming_soon_mode";b:1;s:20:"uag_coming_soon_page";b:1;s:25:"uagb-old-user-less-than-2";b:1;s:24:"uag_enable_legacy_blocks";b:1;}}
